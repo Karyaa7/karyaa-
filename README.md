@@ -1,2 +1,2 @@
 # karyaa-
-this is my first git rrepository
+this is my first git repository
