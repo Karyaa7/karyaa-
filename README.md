@@ -1,3 +1,3 @@
 # karyaa
 
-this is my first git repository
+Tis is my first Git Repository
